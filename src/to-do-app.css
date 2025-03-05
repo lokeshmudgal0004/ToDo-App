@@ -1,0 +1,22 @@
+h1 {
+  font-weight: 640px;
+  font-size: 50px;
+  margin: 20px;
+  margin-top: 8px;
+}
+
+input {
+  width: 100%;
+}
+button {
+  width: 100%;
+  margin: 4px;
+}
+.row {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
